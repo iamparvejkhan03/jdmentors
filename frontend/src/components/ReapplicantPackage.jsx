@@ -42,7 +42,7 @@ function ReapplicantPackage() {
             <h2 className="text-3xl font-bold text-blue-950">Reapplicant Package</h2>
             <p className="md:text-lg text-blue-950 mt-3 mb-10">Applied before? Approach your next cycle differently.</p>
 
-            <div className="rounded-xl overflow-hidden shadow-lg shadow-teal-200 relative bg-gradient-to-br from-[#087F6A] to-[#12A184] text-white">
+            <div className="rounded-xl overflow-hidden shadow-lg shadow-teal-200 relative bg-gradient-to-br from-[#054D3F] to-[#12A184] text-white">
                 <p className="px-3 py-1 text-xs lg:text-base absolute right-1 md:right-2 top-1 rounded bg-white text-teal-700">Reapplicant Package</p>
                 <div className="p-6 lg:p-8 grid lg:grid-cols-[1.1fr_1fr_1fr] gap-8">
                     <div className="flex flex-col">
