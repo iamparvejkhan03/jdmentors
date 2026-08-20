@@ -13,6 +13,7 @@ import ServiceCard from "./ServiceCard";
 import AddonCard from "./AddonCard";
 import ExtraCard from "./ExtraCard";
 import PackageCard from "./PackageCard";
+import ReapplicantPackage from "./ReapplicantPackage";
 import UserAuth from "./UserAuth";
 import UserLogForm from "./UserLogForm";
 import UserRegForm from "./UserRegForm";
@@ -113,6 +114,7 @@ export {
     AllAddons,
     AllExtras,
     AllPackages,
+    ReapplicantPackage,
     AllBlogs,
     AdminRoute,
     LoadingSpinner,
