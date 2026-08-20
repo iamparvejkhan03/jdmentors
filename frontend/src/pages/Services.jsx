@@ -15,6 +15,7 @@ function Services() {
                     <p className="md:text-lg text-blue-950 mt-3 mb-10">Full-service guidance designed to maximize admissions and scholarship results.</p>
 
                     <AllPackages />
+                    <ReapplicantPackage />
                 </Container>
             </section>
 
